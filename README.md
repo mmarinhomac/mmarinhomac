@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi
-![Preview](bg-preview.png)
+![Preview](bg.png)
 
 I am a Full Stack Software Developer and design enthusiast. I am passionate about technologies and love to learn new things.
 <br/>
