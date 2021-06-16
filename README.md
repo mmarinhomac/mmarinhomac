@@ -4,10 +4,7 @@
 I am a Full Stack Software Developer and design enthusiast. I am passionate about technologies and love to learn new things.
 <br/>
 <br/>
-#### 🔭 I’m currently looking for new opportunities.
-**_updateAt 30/05/2021_**
-<br/>
-<br/>
+
 ## ⚡ Skills
 
 Here are a few things I've picked up along my journey.
